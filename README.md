@@ -13,7 +13,7 @@ Este projeto analisa o desempenho térmico de diferentes copos térmicos, inclui
 
 ### 🔧 Configuração dos Testes
 
-* **Copos Testados**: Stanley, Coleman, iKEG, Réplica A e Réplica B.
+* **Copos Testados**: Stanley, Coleman, iKEG e Réplica.
 * **Bebidas**: Água quente (\~85 °C) e água fria (\~5 °C).
 * **Temperatura Ambiente**: Constante a 25 °C.
 * **Volume de Líquido**: Padronizado para todos os testes.
@@ -62,7 +62,7 @@ As visualizações geradas incluem:
 ## 🧪 Resultados Destacados
 
 * **Stanley** apresentou o menor coeficiente $k$, indicando superior isolamento térmico.
-* **Réplica A** e **Réplica B** tiveram desempenhos significativamente inferiores, com maiores perdas de calor.
+* **Réplica** tive desempenho significativamente inferior, com maiores perdas de calor.
 * Correlação positiva moderada entre temperatura inicial e tempo para atingir 25 °C.
 * Diferenças estatisticamente significativas entre copos confirmadas por testes t (p < 0.001).
 
@@ -98,14 +98,14 @@ streamlit run Scripts/dashboard.py
 ## 👥 Equipe
 Este projeto foi idealizado e desenvolvido por:
 
-👨‍💻 Danilo Benedete — Provisionamento de Servidor Web e API DataBase | LinkedIn · GitHub 
+👨‍💻 Danilo Benedette — Provisionamento de Servidor Web e API DataBase | LinkedIn · GitHub 
 
-👨‍💻 Gustavo — Interface Web e Dashboard | LinkedIn · GitHub
+👨‍💻 Gustavo Santos— Interface Web e Dashboard | [LinkedIn](https://www.linkedin.com/in/gustavo-moreira-santos-628857243/) · [GitHub](https://github.com/GustavoMSantoss)
 
 👨‍💻 Thiago Resende — Modelagem Estatística, QA e Documentação | 
 [LinkedIn](https://www.linkedin.com/in/thiagodiasresende/) · [GitHub](https://github.com/ThiagoResende88) 
 
-👨‍💻 Wilton Monteiro — Interface Mobile e UX Geral | LinkedIn · GitHub
+👨‍💻 Wilton Monteiro — Interface Mobile e UX Geral | [LinkedIn](https://www.linkedin.com/in/wilton-monteiro-resende-415631287/) · [GitHub](https://github.com/Wilton-Monteiro)
 
 
 
